@@ -1,0 +1,6 @@
+obj
+bin
+Core/Class1.cs
+appsettings.json
+API/bin/Debug/net5.0/appsettings.Development.json
+*.db
