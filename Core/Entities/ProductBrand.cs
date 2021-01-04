@@ -1,4 +1,7 @@
-$HEADER$namespace $NAMESPACE$
+namespace Core.Entities
 {
-  public class $CLASS$ {$END$}
+    public class ProductBrand : BaseEntity
+    {
+        public string Name { get; set; }
+    }
 }
