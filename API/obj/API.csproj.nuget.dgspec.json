@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\API\\API.csproj": {}
+    "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/API/API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\API\\API.csproj": {
+    "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\API\\API.csproj",
+        "projectUniqueName": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/API/API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\API\\obj\\",
+        "projectPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/API/API.csproj",
+        "packagesPath": "/Users/kumarhalder/.nuget/packages/",
+        "outputPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kumarhalder/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj"
+              "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj": {
+                "projectPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj"
               },
-              "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -70,28 +68,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj": {
+    "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\obj\\",
+        "projectPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj",
+        "packagesPath": "/Users/kumarhalder/.nuget/packages/",
+        "outputPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kumarhalder/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -148,36 +144,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Infrastructure\\obj\\",
+        "projectPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/kumarhalder/.nuget/packages/",
+        "outputPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kumarhalder/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Kumar\\Documents\\DotNet\\skinet\\Core\\Core.csproj"
+              "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj": {
+                "projectPath": "/Users/kumarhalder/Documents/junk/Udemy_Stripe_ASP_NET/E-commerce-DotNetCore-AngularJS/Core/Core.csproj"
               }
             }
           }
@@ -210,6 +204,12 @@
               "target": "Package",
               "version": "[5.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -234,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
